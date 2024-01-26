@@ -1,4 +1,4 @@
-mane: Deploy docs
+name: Deploy docs
 
 on:
   push:
